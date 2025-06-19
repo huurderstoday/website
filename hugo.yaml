@@ -18,10 +18,16 @@ markup:
 
 menu:
   main:
+    - name: Home
+      pageRef: /
+    - name: Huurdersorganisaties
+      pageRef: /huurdersorganisaties
     - name: Statuten
-      pageRef: statuten/
+      pageRef: /statuten
 
 params:
+  page:
+    width: wide
   navbar:
     displayTitle: true
     displayLogo: true
