@@ -1,0 +1,41 @@
+# Hugo configuration file
+title: HuurdersToday
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Statuten
+      pageRef: statuten/
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/fence.svg
+      dark: images/fence-dark.svg
+      link: /
+      width: 24
+      height: 24
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: true
+
+  editURL:
+    enable: true
+    base: "https://github.com/huurderstoday/website/edit/main/content"
