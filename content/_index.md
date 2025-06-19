@@ -8,9 +8,9 @@ type: about
 
 Huurders bij ServiceToday - **Servicekostenafrekening te hoog? Achterstallig onderhoud? Oneens met de huurverhogingen?**
 
-De overlegwet geeft huurders belangrijke rechten om mee te praten over het beleid en beheer van hun huurwoningen. Deze wet zorgt ervoor dat huurdersorganisaties mee kunnen praten over servicekosten, instemmingsrecht hebben over wijzigingen en collectief kunnen optreden in belang van huurders.
+De overlegwet geeft georganiseerde huurders via huurdersorganisaties belangrijke rechten om mee te praten over het beleid en beheer van hun huurwoningen. Deze wet zorgt ervoor dat huurdersorganisaties mee kunnen praten over servicekosten, instemmingsrecht hebben over wijzigingen en collectief kunnen optreden in belang van huurders.
 
-HuurdersToday is een huurdersvereniging voor huurders van ServiceToday. Wij behartigen de rechten en belangen van alle bewoners in de verschillende wooncomplexen die door ServiceToday worden beheerd. Geef nu je interesse voor het lidmaatschap door:
+HuurdersToday is een huurdersorganisatie in oprichting voor huurders van ServiceToday. Wij behartigen de rechten en belangen van alle bewoners in de verschillende wooncomplexen die door ServiceToday worden beheerd. Geef nu je interesse voor het lidmaatschap door en sluit je aan bij ons collectief:
 
 {{< cards cols="1" >}}
   {{< card link="#lid-worden" title="Interesse doorgeven" icon="user-add" >}}
